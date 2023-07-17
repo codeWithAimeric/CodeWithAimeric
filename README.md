@@ -36,6 +36,7 @@
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api/?username=aimeric-git&layout=compact&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=FFF&icon_color=F8D866)](https://github.com/aimeric-git) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimeric-git&layout=compact&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=FFF&icon_color=F8D866)](https://github.com/aimeric-git)
 <!---
 aimeric-git/aimeric-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
