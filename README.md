@@ -2,14 +2,13 @@
 - 👀 I’m interested in world of IT
 - 🌱 Very motivated to keep learning and improving my skills especially on the field of web application development
 - 💞️ I’m looking to collaborate on Javascript project
+- 💬 Ask me about **React, Symfony**
 - 📫 How to reach me : aimericjjb@gmail.com
 
 <a href="https://app.daily.dev/aimeric"><img src="https://api.daily.dev/devcards/2959e145d5c1472c85e2b6e50ae3059c.png?r=3hk" width="400" alt="Aimeric Raz's Dev Card"/></a>
 
 <h1>🚀 Skills</h1>
 
-![Node.js ](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
