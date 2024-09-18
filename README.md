@@ -2,8 +2,12 @@
 - 👀 I’m interested in world of IT
 - 🌱 Very motivated to keep learning and improving my skills especially on the field of web application development
 - 💞️ I’m looking to collaborate on Javascript project
-- 💬 Ask me about **React, Symfony**
+- 💬 Ask me about **React, Symfony, Next**
 - 📫 How to reach me : aimericjjb@gmail.com
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 <a href="https://app.daily.dev/aimeric"><img src="https://api.daily.dev/devcards/2959e145d5c1472c85e2b6e50ae3059c.png?r=3hk" width="400" alt="Aimeric Raz's Dev Card"/></a>
 
