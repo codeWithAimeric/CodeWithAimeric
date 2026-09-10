@@ -2,7 +2,7 @@
 - 👀 I’m interested in world of IT
 - 🌱 Very motivated to keep learning and improving my skills especially on the field of web application development
 - 💞️ I’m looking to collaborate on Javascript project
-- 💬 Ask me about **React, Symfony, Next**
+- 💬 Ask me about **React, Symfony, Laravel, Next**
 - 📫 How to reach me : aimericjjb@gmail.com
 
 <div align="center">
